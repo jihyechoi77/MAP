@@ -175,7 +175,7 @@ async def on_chat_start():
     )
     doc_agent.vecdb.set_collection("scenario2_assistive_care", replace=False) #True)
     doc_agent.config.doc_paths = [
-        "doc/scenario2_assistive.txt"
+        "docs/scenario2_assistive.txt"
     ]
     doc_agent.ingest()
     doc_task = Task(

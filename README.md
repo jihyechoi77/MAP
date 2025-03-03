@@ -11,7 +11,12 @@ Collaborative LLM-powered Agents" to appear at CHI'25 (Late-Breaking Work).
 MAP (<ins>M</ins>ulti-<ins>A</ins>gent system for multi-user
 <ins>P</ins>ersonalization) is a framework for the orchestration of Large Language Model (LLM)-powered agents to support the user-centered multi-user personalization workflow.
 
-Our multi-user personalization workflow consists of three stages: (1) reflection, (2) analysis, and (3) feedback as follows:
+Our multi-user personalization workflow consists of the following four stages:
+* **Stage 0: Preparation** – Users provide documents containing personal preferences, schedules, and rules (see `docs/` for examples). These documents are pre-processed and stored in a document store for efficient retrieval.
+* **Stage 1: Reflection** – The Planner agent collects relevant user information before generating personalized responses. The Rule Retriever and Rule Manager agents work together to effectively fetch the most relevant information from the document store.
+* **Stage 2: Analysis** – The Planner processes the retrieved information, resolves any potential conflicts, and generates a personalized response based on user preferences.
+* **Stage 3: Feedback** – Users provide feedback on the responses, which is recorded to refine future interactions over time.
+
 <p align="center">
     <br>
     <img src="./figures/map_overview.png" width="1000"/>

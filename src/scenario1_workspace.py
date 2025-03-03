@@ -174,7 +174,7 @@ async def on_chat_start():
     )
     doc_agent.vecdb.set_collection("scenario1_workspace", replace=False) #True)
     doc_agent.config.doc_paths = [
-        "doc/scenario1_workspace.txt"
+        "docs/scenario1_workspace.txt"
     ]
     doc_agent.ingest()
     doc_task = Task(

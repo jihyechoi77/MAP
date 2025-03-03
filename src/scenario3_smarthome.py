@@ -165,7 +165,7 @@ async def on_chat_start():
     )
     doc_agent.vecdb.set_collection("scenario3_smarthome", replace=False) #True)
     doc_agent.config.doc_paths = [
-        "doc/scenario3_smarthome.txt"
+        "docs/scenario3_smarthome.txt"
     ]
     doc_agent.ingest()
     doc_task = Task(
