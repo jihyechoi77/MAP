@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the repository for the paper, "MAP: Multi-user Personalization with
-Collaborative LLM-powered Agents" to appear at CHI'25 (Extended Abstract).
+Collaborative LLM-powered Agents" to appear at CHI'25 (Late-Breaking Work).
 
 ## **🤖 What is MAP?**
 
