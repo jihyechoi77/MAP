@@ -1,0 +1,66 @@
+Blaine:
+1. For her wake-up alarm, Blaine wants the robot to enter her room and give a greeting. 
+2. For her to take her walk, Blaine wants the robot to prepare her wheelchair next to her bed. 
+3. When waking Blaine up, she wants a glass of water. 
+4. Blaine likes to have breakfast with other residents in the common room. 
+5. For breakfast, Blaine likes to have mixed fruits and green tea. She wants the food to be prepared in the common room. 
+6. For yoga class, Blaine wants the robot to deliver the required materials to be left on her bed. 
+7. For her weekly doctor appointments, Blaine wants the robot to escort her to the front door 15 minutes before her appointment.
+8. Blaine likes her mail and packages to be delivered directly to her.
+9. Between eating breakfast and before lunch, Blaine must take her medications. She wants the robot to drop by sometime before lunch to check on whether she took her medications.
+10. If Blaine has to take new medications, Blaine wants the robot to alert the human caretaker to come to Blaine and assist her in taking new medications. 
+11. Everyday, Blaine will wake up at 7 am. 
+12. Everyday, Blain will have breakfast in the common area at 9 am. 
+13. Blaine always takes a walk at 7:30 on Monday, Wednesday, and Friday.
+14. Blaine likes to have social interaction with the robot. She wants the robot to discuss various topics with her, such as global issues, animals, and nature, for 30 minutes after breakfast on Monday, Wednesday, and Friday. 
+15. Blaine will join the book club on Friday 10:30 am
+16. Blaine will join the yoga club on Tuesday 10:30 am
+17. Blaine will join the art club on Wednesday 10:30 am. Blaine wants a reminder. 
+18. Blaine has weekly doctor checkups on Monday 10:30 am.
+19. Blaine will join an outdoor exercise session on Thursday at 11 am.
+20. Blaine has lunch at 12pm with her children who visit every Friday.  She wants her children escorted from the front door to her room when they arrive at 11:30am. 
+
+Susie:
+1. Susie is independent and takes privacy important, so she doesn’t want the robot to enter her room unless confirmed by her. The robot should knock for confirmation. If she does not answer, the robot should assume that she is not available. 
+2. Every morning, Susie wants the local newspaper delivered to her by the robot. On Mondays and Wednesdays, she also wants the New York Times delivered as well to do the crossword puzzle. 
+3. For yoga class, Susie wants the robot to deliver required materials to be left at her door. 
+4. On Monday, Wednesday, and Friday, Susie wants to have breakfast with others in the common room. 
+5. Susie has a mail basket on her door for mail delivery. She wants the robot to leave the mail in the basket rather than directly delivering it to her. 
+6. Susie wants the robot to deliver all other packages directly to her. If she is not available, she wants the robot to deliver the packages to the human caretaker. 
+7. Susie wants the robot to deliver a glass of water and her vitamins to her after lunch. 
+8. Susie wants the robot to empty the trash can in her room after lunch. 
+9. Susie needs insulin shots after her lunch. She wants the robot to check sometime after lunch to make sure she took the shot. 
+10. Susie likes when the robot delivers and offers coffee or tea spontaneously in her room.
+11. On Tuesdays and Thursdays, Susie likes to have breakfast by herself at 8 am. 
+12. On Monday, Wednesday, and Friday, she will have breakfast in the common area with other residents at 9am. 
+13. Susie has weekly physical therapy at 10:30 am on Wednesdays. 
+14. Susie will join the book club on Monday and Friday 10:30 am
+15. Susie will join the yoga club on Tuesday at 10:30 am. Susie wants her yoga mat delivered to her door at 10am. 
+16. Susie will join Ryan’s birthday party on Thursday 10:30 am. Susie wants a reminder at 10am. 
+17. Susie takes a walk everyday at 6:30 am, and wants her water bottle filled with water delivered to her door at 6am. 
+18. On Thursday, Susie wants wrapping material delivered to her sometime before Ryan’s birthday party to wrap her gift. 
+19. Susie wants coffee delivered to her room after breakfast at 10:00 am. 
+20. Susie goes to volunteer at the community center at 12pm on Friday for reading stories to children. She wants child books to be prepared and left at her door at 11:30am. 
+
+Ryan:
+1. Ryan shaves on Monday, Wednesday, and Fridays right after he wakes up. While you wake him up, you should deliver a razor, shaving foam, and a towel on his bed stand. 
+2. For a wakeup call, Ryan likes three knocks on his door. 
+3. For breakfast, Ryan likes oatmeal, milk, and fruit. 
+4. Ryan likes 2 water bottles to be delivered to his room after breakfast. 
+5. Ryan wants the robot to gather his laundry at 12pm everyday, when he is off to lunch. 
+6. Ryan likes to have the newspaper delivered to him after he wakes up and before breakfast. 
+7. Ryan wants the robot to knock on the door twice before entering his room, so that Ryan knows that it is him. 
+8. Ryan wants all delivery packages left in front of his door, the mail should be left on top of the packages. 
+9. Ryan likes fresh flowers to be placed in the vase next to her bed every time he returns from his doctor’s appointment to cheer him up.
+10. Ryan is especially into gardening indoor plants. He wants the robot to make sure he watered them around lunchtime.  
+11. Ryan will wake up at 7 am every weekday.
+12. Ryan will always have breakfast in his own room between 8:30 and 9:30 am. 
+13. Ryan has weekly doctor checkups on Tuesday 10:30am. Ryan likes a reminder 30 minutes before his appointment. 
+14. Ryan will host his birthday party on Thursday 10:30 am. He wants the robot to provide reminders 1 hour before to all residents. 
+15. Ryan will join the book club on Friday 10:30 am
+16. Ryan will join the yoga club on Monday 10:30 am
+17. Ryan will join the art club on Wednesday 10:30 am. Ryan wants a reminder 30 minutes before. 
+18. Ryan has physical therapy on Friday 10 am.
+19. Ryan will join an outdoor hiking session at Friday 12pm.
+20. Ryan has a lunch appointment with a friend at 12pm on Wednesday. He wants a reminder 15 minutes before.
+

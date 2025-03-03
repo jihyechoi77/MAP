@@ -1,0 +1,66 @@
+Emma:
+1. Prefers a warmer temperature at night while sleeping, around 72 degrees, specifically in her bedroom.
+2. Requests the temperature to be slightly warmer during the daytime when she's studying or working from home, specifically 78 degrees.
+3. Wants an alert/notification when the temperature drops below 65 degrees in her bedroom to prevent discomfort.
+4. Requests the temperature to be raised to 80 degrees during her yoga or meditation sessions, particularly in the living room.
+5. Emma does not want the living room or kitchen temperature to ever drop below 65 degrees as she gets too cold.
+6. Prefers the temperature in the bathroom to be warm, around 75 degrees, in the mornings to make getting ready more comfortable.
+7. Emma wants the kitchen to be cooler, around 68 degrees, while cooking to offset the heat from the stove and oven.
+8. Prefers the home gym to be cooler during her workout, specifically 65 degrees, during her workouts for optimal performance and comfort.
+9. Requests that the living room temperature be set to 70 degrees when guests are over to accommodate a variety of preferences.
+10. Prefers a gradual increase in her bedroom temperature starting 30 minutes before her alarm goes off to ease waking up.
+11. On Monday and Friday, Emma works at home from 9:00 AM to 12:00 pm.
+12. On Tuesday and Thursday, Emma will start her pilates session at 8:00 AM to 9:00 AM.
+13. On all weekdays, Emma will go to bed at 11:00 PM.
+14. Emma dedicates Friday evenings from 9:00 PM to 11:00 PM for yoga at the home gym.
+15. She schedules time to relax in the living room with a book or movie on Saturday from 8:00 PM to 9:00 PM, preferring a cozy 72 degrees.
+16. Emma uses the home gym for her workouts on Monday and Wednesday from 6:00 AM to 7:00 AM.
+17. On Sunday mornings, from 9:00 AM to 10:00 AM, Emma enjoys cooking a big breakfast.
+18. She has a study group that meets in the living room every Thursday from 7:00 PM to 8:00 PM.
+19. Emma has work meetings on Tuesday and Thursday at home from 4:00 PM to 5:00 PM.
+20. She schedules video calls with family on Sunday afternoons from 3:00 PM to 4:00 PM in her bedroom.
+
+Alex:
+1. Prefers a cooler temperature at night while falling asleep at 11:00 pm, around 65 degrees, specifically in his bedroom.
+2. Requests the temperature to be lowered to 60 degrees when having a party or hosting movie or entertainment nights, as many people warm up the room.
+3. Requests the temperature to be adjusted to 72 degrees during his workout sessions for optimal comfort and performance.
+4. Alex wants the temperature in the kitchen to be 60 degrees when cooking as it gets hot from the stove and cooking.
+5. Alex does not want the temperature in their bedroom to drop below 68 degrees for the well-being of their pet.
+6. Prefers the living room temperature to be around 70 degrees during movie nights for a comfortable viewing experience.
+7. Requests that the bathroom temperature be set to 75 degrees in the morning to prevent a cold start to the day.
+8. Wants the temperature to be 65 degrees when he is working at home for enhanced focus and productivity.
+9. Prefers a gradual decrease in temperature in the bedroom from 70 to 65 degrees starting an hour before bed to aid in falling asleep.
+10. Requests the temperature to be set at 67 degrees during quiet reading times in the living room for relaxation.
+11. On Wednesday, Alex will have a dinner party with friends from 6:00 PM to 9:00 PM.
+12. On Monday, Wednesday, and Friday, Alex goes to the home gym from 4:00 pm to 5:00 pm.
+13. On weekdays, Alex will go to bed at 10:00 PM.
+14. On Wednesday, Alex is going to work from home from 9:00 AM to 12:00 PM.
+15. On weekends, Alex enjoys a late breakfast in the kitchen, typically starting around 10:00 AM to 10:30 AM.
+16. Alex dedicates Saturday afternoons, from 3:00 PM to 4:00 PM, for reading in the living room, preferring a quiet and comfortable environment.
+17. On Tuesday evening, from 9:00 PM to 11:00 PM, Alex hosts a weekly game night in the living room.
+18. Every Thursday from 8:00 AM to 9:00 AM, Alex practices meditation in their bedroom, preferring a warmer temperature of 70 degrees for relaxation.
+19. Alex schedules time for game night with friends in the living room on Friday from 9:00 PM to 11:00 PM.
+20. On Sunday, Alex enjoys cooking a large meal for meal prep, spending several hours in the kitchen from 1:00 PM to 2:00 PM.
+
+
+Olivia:
+1. Prefers a consistent temperature throughout the day and night, around 70 degrees, in her bedroom.
+2. Olivia does not want the living room temperature to exceed 75 degrees to prevent high electricity bills. She also wants a notification when the temperature exceeds 75 degrees in the living room.
+3. Requests the temperature to be 75 degrees in her home office during study or work sessions for improved concentration.
+4. Wants the temperature in the living room to be 65 degrees for the health and growth of indoor plants.
+5. Prefers the bathroom temperature to be set at 72 degrees in the mornings for a comfortable start to the day.
+6. Requests the temperature to be no higher than 62 degrees while she cooks to avoid being too hot.
+7. Wants the home gym temperature to be set at 65 degrees during her workout sessions for optimal exercise conditions.
+8. Prefers the dining room to maintain a temperature of 70 degrees during meal times for a comfortable dining experience.
+9. Requests a notification if the temperature in any shared spaces drops below 65 degrees to ensure the house remains comfortable for all occupants.
+10. Prefers that the temperature in the living room for home theater, reading, or entertainment nights to be set at 75 degrees during use for a cozy experience.
+11. Olivia works in her home office from 9:00 AM to 12:00 PM on Monday, Wednesday, and Friday.
+12. Olivia cooks dinner from 4:00PM to 5:00 PM on Monday, Wednesday, and Friday.
+13. Olivia goes to the home gym on Thursday from 4:00 PM to 5:00 PM. 
+14. Olivia reads in the living room on Tuesday from 9:00 PM to 11:00PM. 
+15. On Saturday mornings from 6:00 AM to 7:00 AM, Olivia waters and cares for her indoor plants in the living room.
+16. Olivia hosts a movie night in the living room on Thursday from 9:00 PM to 11:00 PM.
+17. She enjoys reading in the living room from 1:00 PM to 2:00 PM on Monday, Wednesday, and Friday.
+18. On Sunday afternoons from 1:00 PM to 2:00 PM, Olivia uses the dining room for meal prep for the week ahead.
+19. She schedules a deep cleaning session for the shared spaces on Saturday from 8:00 PM to 9:00 PM, maintaining a temperature of 70 degrees for comfort.
+20. Olivia dedicates time for yoga in the home gym on Monday and Thursday from 7:00 PM to 8:00 PM, with the temperature set at 65 degrees.

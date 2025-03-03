@@ -1,0 +1,66 @@
+JOHN:
+1. John prefers the Sun room for client meetings as it has a more professional ambiance.
+2. John likes the room temperature to be set at a slightly cooler level.
+3. John prefers a whiteboard and markers available in the room for brainstorming sessions.
+4. John likes to have background music playing softly during meetings.
+5. John requests natural lighting for morning meetings to boost team energy and creativity.
+6. He appreciates having fresh flowers or plants in the room, believing it improves the room's atmosphere and air quality.
+7. John prefers chairs with adjustable support for long meetings to ensure everyone is comfortable.
+8. He requests that meetings before 10:00 AM include coffee and light breakfast options.
+9. John likes the option to record meetings for later review, preferring rooms equipped with recording equipment.
+10. He insists on having a tech support contact readily available in case of any AV equipment issues.
+11. John has a client consultation on Tuesday 10:00 AM - 11:00 AM.
+12. John has a team update meeting on Thursday 2:00 PM - 3:00 PM.
+13. John has a team update meeting on Friday 12:00 PM - 1:00 PM.
+14. John schedules brainstorming sessions every Wednesday from 9:00 AM to 10:30 AM.
+15. He reserves the Sun room for client pitches every Monday from 3:00 PM to 4:00 PM.
+16. John has scheduled a monthly performance review meeting for his team on Monday from 10:00 AM to 12:00 PM.
+17. He organizes a casual lunch meeting with the team in the Apple room Friday from 1:00 PM to 2:00 PM.
+18. John holds a workshop for new technologies or skills development on Wednesday from 2:00 PM to 4:00 PM.
+19. He arranges one-on-one meetings with team members needing guidance or feedback, slotting them on Thursday 9:00 AM to 10:00 AM.
+20. John plans celebratory occasions, such as birthdays or work anniversaries, in the Apple room, this Thursday around 4:00 PM to 5:00 PM for a relaxed setting.
+
+EMILY:
+1. Emily prefers the Apple room for brainstorming sessions as it has more natural light.
+2. Emily prefers the chairs to be arranged in a circle for more open discussions.
+3. Emily requests a supply of sticky notes and flip charts for brainstorming sessions.
+4. Emily wants 10 bottles of water to be prepared for every meeting.
+5. She insists on having a quiet air purifier running to ensure clean air without distracting noise.
+6. Emily prefers having a small coffee and tea station available inside or near the meeting room.
+7. She asks for the availability of a portable projector and screen for presentations during meetings.
+8. Emily likes to have a small fridge in the room stocked with healthy snacks for longer meetings.
+9. She requests that the room's lighting can be adjusted to match the meeting's mood and time of day.
+10. Emily prefers meetings to start after 9:00 AM to allow for morning routines and preparation.
+11. Emily has a brainstorming session on Tuesday 9:00 AM - 11:00 AM.
+12. Emily has a client consultation on Wednesday 3:00 PM - 4:00 PM.
+13. Emily has a client consultation on Friday 12:00 PM - 1:00 PM.
+14. She organizes a weekly team feedback session every Thursday from 10:00 AM to 11:00 AM.
+15. Emily schedules personal development workshops for her team this Monday from 2:00 PM to 4:00 PM.
+16. She sets aside time for one-on-one mentoring with team members every Monday and Wednesday afternoon, from 4:00 PM to 5:00 PM.
+17. Emily plans strategic planning meetings for the upcoming month this Wednesday from 9:00 AM to 12:00 PM.
+18. She holds a casual team catch-up in the Apple room every Friday from 4:00 PM to 5:00 PM to close the week on a positive note.
+19. Emily arranges review meetings with clients to discuss progress and future plans, this Monday, from 10:00 AM to 12:00 PM.
+20. She schedules creative workshops to explore new ideas and innovations with her team on this Wednesday from 4:00 PM to 5:00 PM.
+
+MICHAEL:
+1. Michael prefers the Sun room for internal team meetings as it has more space.
+2. Michael prefers the room to be set up with a projector and screen for presentations.
+3. Michael likes to have a pot of coffee available for every meeting.
+4. He requests high-speed internet access to ensure smooth video conferencing during virtual meetings.
+5. Michael prefers ergonomic chairs to support long meetings and maintain team comfort.
+6. He enjoys having a small library of business and technology books in the room for quick references and inspiration.
+7. Michael asks for the room temperature to be adjustable, allowing for a cooler setting during presentations and warmer for relaxed discussions.
+8. He prefers natural light but also requests adjustable blinds to prevent glare during projector use.
+9. Michael likes to have a sound system capable of playing background music for casual meetings and gatherings.
+10. He insists on having a designated space for personal belongings to keep the meeting area uncluttered.
+11. Michael has a brainstorming session on Tuesday 2:00 PM - 3:00 PM.
+12. Michael has a team meeting on Wednesday 3:00 PM - 4:00 PM.
+13. Michael has a team meeting for lunch gathering on Friday 12:00 PM - 1:00 PM.
+14. He schedules a strategic planning session with his team on Thursday from 10:00 AM to 12:00 PM.
+15. Michael organizes a monthly review meeting with department heads this Monday from 3:00 PM to 5:00 PM.
+16. He holds for his team a weekly project update meeting every Monday from 9:00 AM to 10:00 AM.
+17. Michael arranges for guest speaker events quarterly, focusing on industry trends, innovation, and leadership, typically on a Thursday afternoon 1:00 PM to 2:00 PM.
+18. He has set aside time for team training sessions this Wednesday from 1:00 PM to 3:00 PM.
+19. Michael plans an informal coffee chat with the team, every Tuesday morning from 8:30 AM to 9:00 AM, to discuss any non-work-related topics.
+20. He schedules end-of-quarter celebrations to recognize team achievements, this Friday, from 3:00 PM to 5:00 PM.
+
